@@ -1,5 +1,5 @@
 # Learning Process
-This repository contains the topics that I am currently studying and improving myself in. The following itens will be the topics of this repository. Each folder created in this repository represents one of those topics that i studied and make a summary about the theme.
+This repository contains the topics that I am currently studying and improving myself in. The following itens will be the topics of this repository. Each folder created in this repository represents one of those topics that i studied and make a summary about the theme. As i am making progress in this topics, i will mark with a check.
 
 - GitHub
   - Clone a repository ✅
