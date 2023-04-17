@@ -5,6 +5,7 @@ This repository contains the topics that I am currently studying and improving m
   - Clone a repository ✅
   - Commit, Pull, Push, Status, and Checkout commands ✅
   - Markdown ✅
+  - Creating and answering issues ✅
   - Switch to a different branch 
   - Create a new branch
   - Resolve a merge conflict
