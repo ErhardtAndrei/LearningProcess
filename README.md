@@ -5,8 +5,8 @@ This repository contains the topics that I am currently studying and improving m
 
 - Clone a repository ✅
 - Markdown ✅
-- Switch to a different branch
-- Create a new branch
+- Switch to a different branch ✅
+- Create a new branch ✅
 - Resolve a merge conflict
 - Merge two branches
 - Commit ✅
