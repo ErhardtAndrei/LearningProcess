@@ -13,7 +13,7 @@ This repository contains the topics that I am currently studying and improving m
 - ✅Switch to a different branch 
 - ✅Merge two branches           
 - ✅Solve a merge conflict       
-- Checkout commands 
+- ✅Checkout commands 
   - In this section, I created the [Index](https://github.com/ErhardtAndrei/LearningProcess/blob/master/index.html) file using the concepts listed above. First, I created a repository on GitHub and then used Git to clone it. With the repository on my local machine, I created two different branches (conteudo and design) and made distinct changes in each one. After doing this, I intentionally created a conflicting error on one of the lines, which I will explain below. Then, I merged the conteudo branch into the main (master) branch. Finally, I attempted to merge the design branch into the main branch, but due to the intentional error I induced, a merge conflict occurred. I resolved it by accepting the proposed change suggested by VSCode, which allowed the merge to proceed.
 ## Client-Server Architecture
 
