@@ -58,3 +58,11 @@ In the context of web applications, this model can be defined as back-end for th
 - Flex-box
 
 ## React
+
+## New topics
+- EBNF
+- Hemingway
+- Hemingwayapp
+- Framework flask
+- mvnrepository
+- REST
